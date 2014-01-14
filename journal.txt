@@ -1,11 +1,14 @@
-Title: This paper may be grounbreaking but with the pace I'm writing it, it will never happen. 
+Title: Worst paper ever. 
 Authors: Dr Anna Smithm, James Carr, John Smith
+
 
 Date: January 14th 2014
 
 Introduction:
 Some introductory text.
 
-Data: The data is still to be gathered.
+Data: 
+The data has been gathered but sucks balls.
 
-Conclusion:
+Conclusion: 
+Surprise! No conclusions.
