@@ -4,5 +4,7 @@ Authors: James Carr
 Date: January 14th 2014
 
 Introduction:
+Some introductory text.
+
 Data:
 Conclusion:
