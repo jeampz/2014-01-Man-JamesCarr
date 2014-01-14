@@ -1,7 +1,7 @@
-Title:
-Authors:
+Title: The most interesting paper in the world!
+Authors: James Carr
 
-Date:
+Date: January 14th 2014
 
 Introduction:
 Data:
