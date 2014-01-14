@@ -1,10 +1,11 @@
-Title: The most interesting paper in the world!
-Authors: James Carr
+Title:This paper may be grounbreaking but with the pace I'm writing it, it will never happen. 
+Authors: James Carr, Dr Anna Smith
 
 Date: January 14th 2014
 
 Introduction:
 Some introductory text.
 
-Data:
+Data: The data is still to be gathered.
+
 Conclusion:
